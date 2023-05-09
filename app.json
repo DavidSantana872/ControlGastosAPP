@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "controlgastos",
+    "slug": "controlgastos",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "controlgastos"
+}
